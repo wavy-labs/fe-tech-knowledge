@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-29T03:55:49+00:00",
+  "updated_at": "2026-04-30T03:57:08+00:00",
   "items": [
     {
       "date": "seed",
@@ -964,6 +964,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-04-29.md"
+    },
+    {
+      "date": "2026-04-30",
+      "question": "JavaScript에서 꼬리 재귀 최적화(Tail Call Optimization)란 무엇인가요?",
+      "normalized_question": "javascript에서꼬리재귀최적화tailcalloptimization란무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-04-30.md"
     }
   ]
 }
