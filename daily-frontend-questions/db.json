@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-30T03:57:08+00:00",
+  "updated_at": "2026-05-01T04:09:10+00:00",
   "items": [
     {
       "date": "seed",
@@ -973,6 +973,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-04-30.md"
+    },
+    {
+      "date": "2026-05-01",
+      "question": "JavaScript에서 'var', 'let', 'const'의 스코프 차이는 무엇인가요?",
+      "normalized_question": "javascript에서varletconst의스코프차이는무엇인가요",
+      "category": "JavaScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-01.md"
     }
   ]
 }
