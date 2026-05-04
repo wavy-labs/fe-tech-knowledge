@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-03T04:04:05+00:00",
+  "updated_at": "2026-05-04T04:00:53+00:00",
   "items": [
     {
       "date": "seed",
@@ -1000,6 +1000,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-03.md"
+    },
+    {
+      "date": "2026-05-04",
+      "question": "브라우저에서 이벤트 버블링(Event Bubbling)과 캡처링(Capturing)의 차이점은 무엇인가요?",
+      "normalized_question": "브라우저에서이벤트버블링eventbubbling과캡처링capturing의차이점은무엇인가요",
+      "category": "DOM Event",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-04.md"
     }
   ]
 }
