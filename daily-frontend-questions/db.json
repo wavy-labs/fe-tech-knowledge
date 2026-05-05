@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-04T04:00:53+00:00",
+  "updated_at": "2026-05-05T03:41:23+00:00",
   "items": [
     {
       "date": "seed",
@@ -1009,6 +1009,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-04.md"
+    },
+    {
+      "date": "2026-05-05",
+      "question": "JavaScript에서 매크로태스크와 마이크로태스크가 이벤트 루프에서 처리되는 순서는 무엇인가요?",
+      "normalized_question": "javascript에서매크로태스크와마이크로태스크가이벤트루프에서처리되는순서는무엇인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-05.md"
     }
   ]
 }
