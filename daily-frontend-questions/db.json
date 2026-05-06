@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-05T03:41:23+00:00",
+  "updated_at": "2026-05-06T03:57:47+00:00",
   "items": [
     {
       "date": "seed",
@@ -1018,6 +1018,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-05.md"
+    },
+    {
+      "date": "2026-05-06",
+      "question": "JavaScript에서 수동으로 이벤트를 발생시키는 CustomEvent 생성 및 활용법은 무엇인가요?",
+      "normalized_question": "javascript에서수동으로이벤트를발생시키는customevent생성및활용법은무엇인가요",
+      "category": "DOM Event",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-06.md"
     }
   ]
 }
