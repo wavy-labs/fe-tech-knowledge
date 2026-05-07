@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-06T03:57:47+00:00",
+  "updated_at": "2026-05-07T03:56:37+00:00",
   "items": [
     {
       "date": "seed",
@@ -1027,6 +1027,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-06.md"
+    },
+    {
+      "date": "2026-05-07",
+      "question": "JavaScript에서 의사결정 시 사용하는 '명시적 타입 변환'과 '암시적 타입 변환'의 차이를 설명하세요.",
+      "normalized_question": "javascript에서의사결정시사용하는명시적타입변환과암시적타입변환의차이를설명하세요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-07.md"
     }
   ]
 }
