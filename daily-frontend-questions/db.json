@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-07T03:56:37+00:00",
+  "updated_at": "2026-05-08T03:47:18+00:00",
   "items": [
     {
       "date": "seed",
@@ -1036,6 +1036,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-07.md"
+    },
+    {
+      "date": "2026-05-08",
+      "question": "React에서 Error Boundary를 사용하여 런타임 에러를 처리하는 원리는 무엇인가요?",
+      "normalized_question": "react에서errorboundary를사용하여런타임에러를처리하는원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-08.md"
     }
   ]
 }
