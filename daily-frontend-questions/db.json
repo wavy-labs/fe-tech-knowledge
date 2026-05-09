@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-08T03:47:18+00:00",
+  "updated_at": "2026-05-09T03:49:16+00:00",
   "items": [
     {
       "date": "seed",
@@ -1045,6 +1045,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-08.md"
+    },
+    {
+      "date": "2026-05-09",
+      "question": "JavaScript의 가변 인자 처리를 위한 Rest 파라미터와 arguments 객체의 차이는 무엇인가요?",
+      "normalized_question": "javascript의가변인자처리를위한rest파라미터와arguments객체의차이는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-09.md"
     }
   ]
 }
