@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-09T03:49:16+00:00",
+  "updated_at": "2026-05-10T04:05:41+00:00",
   "items": [
     {
       "date": "seed",
@@ -1054,6 +1054,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-09.md"
+    },
+    {
+      "date": "2026-05-10",
+      "question": "JavaScript의 제너레이터(Generator) 함수가 일반 함수와 다른 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript의제너레이터generator함수가일반함수와다른동작원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-10.md"
     }
   ]
 }
