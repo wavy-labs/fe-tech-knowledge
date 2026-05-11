@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-10T04:05:41+00:00",
+  "updated_at": "2026-05-11T04:17:12+00:00",
   "items": [
     {
       "date": "seed",
@@ -1063,6 +1063,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-10.md"
+    },
+    {
+      "date": "2026-05-11",
+      "question": "브라우저의 리소스 힌트 중 DNS-prefetch와 preconnect의 동작 원리와 차이점은 무엇인가요?",
+      "normalized_question": "브라우저의리소스힌트중dnsprefetch와preconnect의동작원리와차이점은무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-11.md"
     }
   ]
 }
