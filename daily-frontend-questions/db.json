@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-11T04:17:12+00:00",
+  "updated_at": "2026-05-12T04:00:38+00:00",
   "items": [
     {
       "date": "seed",
@@ -1072,6 +1072,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-11.md"
+    },
+    {
+      "date": "2026-05-12",
+      "question": "웹 보안에서 CSP(Content Security Policy)를 설정하여 XSS 공격을 방지하는 원리는 무엇인가요?",
+      "normalized_question": "웹보안에서cspcontentsecuritypolicy를설정하여xss공격을방지하는원리는무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-12.md"
     }
   ]
 }
