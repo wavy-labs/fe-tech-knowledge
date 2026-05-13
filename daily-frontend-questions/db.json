@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-12T04:00:38+00:00",
+  "updated_at": "2026-05-13T04:08:21+00:00",
   "items": [
     {
       "date": "seed",
@@ -1081,6 +1081,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-12.md"
+    },
+    {
+      "date": "2026-05-13",
+      "question": "브라우저의 렌더링 파이프라인에서 레이어 합성(Compositing) 과정은 무엇인가요?",
+      "normalized_question": "브라우저의렌더링파이프라인에서레이어합성compositing과정은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-13.md"
     }
   ]
 }
