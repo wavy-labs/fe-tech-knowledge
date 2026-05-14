@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-13T04:08:21+00:00",
+  "updated_at": "2026-05-14T04:07:33+00:00",
   "items": [
     {
       "date": "seed",
@@ -1090,6 +1090,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-13.md"
+    },
+    {
+      "date": "2026-05-14",
+      "question": "React의 Suspense가 데이터 페칭 과정에서 로딩 상태를 처리하는 원리는 무엇인가요?",
+      "normalized_question": "react의suspense가데이터페칭과정에서로딩상태를처리하는원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-14.md"
     }
   ]
 }
