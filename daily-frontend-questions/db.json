@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-14T04:07:33+00:00",
+  "updated_at": "2026-05-15T04:12:55+00:00",
   "items": [
     {
       "date": "seed",
@@ -1099,6 +1099,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-14.md"
+    },
+    {
+      "date": "2026-05-15",
+      "question": "JavaScript의 이벤트 루프에서 마이크로태스크가 매크로태스크보다 우선순위가 높은 이유는 무엇인가요?",
+      "normalized_question": "javascript의이벤트루프에서마이크로태스크가매크로태스크보다우선순위가높은이유는무엇인가요",
+      "category": "Async",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-15.md"
     }
   ]
 }
