@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T04:12:55+00:00",
+  "updated_at": "2026-05-16T03:55:02+00:00",
   "items": [
     {
       "date": "seed",
@@ -1108,6 +1108,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-15.md"
+    },
+    {
+      "date": "2026-05-16",
+      "question": "TypeScript의 조건부 타입(Conditional Types)을 활용해 타입을 제어하는 원리는 무엇인가요?",
+      "normalized_question": "typescript의조건부타입conditionaltypes을활용해타입을제어하는원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-16.md"
     }
   ]
 }
