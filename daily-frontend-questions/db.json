@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-16T03:55:02+00:00",
+  "updated_at": "2026-05-17T04:14:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -1117,6 +1117,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-16.md"
+    },
+    {
+      "date": "2026-05-17",
+      "question": "웹 보안에서 CSRF(Cross-Site Request Forgery) 공격의 원리와 이를 방지하기 위한 토큰 기반의 대응 방안은 무엇인가요?",
+      "normalized_question": "웹보안에서csrfcrosssiterequestforgery공격의원리와이를방지하기위한토큰기반의대응방안은무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-17.md"
     }
   ]
 }
