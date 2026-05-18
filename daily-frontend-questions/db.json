@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-17T04:14:24+00:00",
+  "updated_at": "2026-05-18T04:25:33+00:00",
   "items": [
     {
       "date": "seed",
@@ -1126,6 +1126,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-17.md"
+    },
+    {
+      "date": "2026-05-18",
+      "question": "CSS의 '스태킹 컨텍스트(Stacking Context)'가 생성되는 조건과 z-index와의 관계는 무엇인가요?",
+      "normalized_question": "css의스태킹컨텍스트stackingcontext가생성되는조건과zindex와의관계는무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-18.md"
     }
   ]
 }
