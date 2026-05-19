@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-18T04:25:33+00:00",
+  "updated_at": "2026-05-19T04:20:27+00:00",
   "items": [
     {
       "date": "seed",
@@ -1135,6 +1135,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-18.md"
+    },
+    {
+      "date": "2026-05-19",
+      "question": "브라우저에서 Service Worker의 생명주기와 캐싱 전략을 설명하세요.",
+      "normalized_question": "브라우저에서serviceworker의생명주기와캐싱전략을설명하세요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-19.md"
     }
   ]
 }
