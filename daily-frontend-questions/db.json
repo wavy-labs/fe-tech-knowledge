@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-19T04:20:27+00:00",
+  "updated_at": "2026-05-20T04:21:43+00:00",
   "items": [
     {
       "date": "seed",
@@ -1144,6 +1144,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-19.md"
+    },
+    {
+      "date": "2026-05-20",
+      "question": "JavaScript의 메모리 누수를 유발하는 대표적인 상황 3가지를 설명하세요.",
+      "normalized_question": "javascript의메모리누수를유발하는대표적인상황3가지를설명하세요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-20.md"
     }
   ]
 }
