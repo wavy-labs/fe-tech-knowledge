@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-20T04:21:43+00:00",
+  "updated_at": "2026-05-21T04:38:53+00:00",
   "items": [
     {
       "date": "seed",
@@ -1153,6 +1153,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-20.md"
+    },
+    {
+      "date": "2026-05-21",
+      "question": "CSS에서 가상 요소(Pseudo-elements)와 가상 클래스(Pseudo-classes)의 차이점은 무엇인가요?",
+      "normalized_question": "css에서가상요소pseudoelements와가상클래스pseudoclasses의차이점은무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-21.md"
     }
   ]
 }
