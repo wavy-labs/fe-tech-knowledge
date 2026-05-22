@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-21T04:38:53+00:00",
+  "updated_at": "2026-05-22T04:23:38+00:00",
   "items": [
     {
       "date": "seed",
@@ -1162,6 +1162,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-21.md"
+    },
+    {
+      "date": "2026-05-22",
+      "question": "브라우저에서 CORS 정책이 발생하는 근본 원인과 이를 우회하기 위한 서버 측 설정은 무엇인가요?",
+      "normalized_question": "브라우저에서cors정책이발생하는근본원인과이를우회하기위한서버측설정은무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-22.md"
     }
   ]
 }
