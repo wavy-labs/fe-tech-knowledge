@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-22T04:23:38+00:00",
+  "updated_at": "2026-05-23T04:02:39+00:00",
   "items": [
     {
       "date": "seed",
@@ -1171,6 +1171,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-22.md"
+    },
+    {
+      "date": "2026-05-23",
+      "question": "Vue 3의 Composition API에서 ref와 reactive의 반응성 구현 방식 차이는 무엇인가요?",
+      "normalized_question": "vue3의compositionapi에서ref와reactive의반응성구현방식차이는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-23.md"
     }
   ]
 }
