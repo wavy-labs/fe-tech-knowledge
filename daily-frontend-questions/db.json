@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-23T04:02:39+00:00",
+  "updated_at": "2026-05-24T04:23:19+00:00",
   "items": [
     {
       "date": "seed",
@@ -1180,6 +1180,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-23.md"
+    },
+    {
+      "date": "2026-05-24",
+      "question": "브라우저의 프리로딩(Preloading)과 프리페칭(Prefetching)의 차이점은 무엇인가요?",
+      "normalized_question": "브라우저의프리로딩preloading과프리페칭prefetching의차이점은무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-24.md"
     }
   ]
 }
