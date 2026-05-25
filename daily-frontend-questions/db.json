@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-24T04:23:19+00:00",
+  "updated_at": "2026-05-25T04:45:04+00:00",
   "items": [
     {
       "date": "seed",
@@ -1189,6 +1189,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-24.md"
+    },
+    {
+      "date": "2026-05-25",
+      "question": "TypeScript의 제네릭(Generic)을 사용하여 컴포넌트나 함수를 설계할 때 얻는 재사용성과 타입 안정성의 이점은 무엇인가요?",
+      "normalized_question": "typescript의제네릭generic을사용하여컴포넌트나함수를설계할때얻는재사용성과타입안정성의이점은무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-25.md"
     }
   ]
 }
