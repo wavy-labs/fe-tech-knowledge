@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-25T04:45:04+00:00",
+  "updated_at": "2026-05-26T04:20:30+00:00",
   "items": [
     {
       "date": "seed",
@@ -1198,6 +1198,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-25.md"
+    },
+    {
+      "date": "2026-05-26",
+      "question": "React에서 커스텀 훅(Custom Hook)을 사용하는 것이 컴포넌트 로직 재사용 측면에서 어떤 장점이 있나요?",
+      "normalized_question": "react에서커스텀훅customhook을사용하는것이컴포넌트로직재사용측면에서어떤장점이있나요",
+      "category": "Design Pattern",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-26.md"
     }
   ]
 }
