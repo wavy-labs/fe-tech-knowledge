@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-26T04:20:30+00:00",
+  "updated_at": "2026-05-27T04:43:11+00:00",
   "items": [
     {
       "date": "seed",
@@ -1207,6 +1207,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-26.md"
+    },
+    {
+      "date": "2026-05-27",
+      "question": "JavaScript에서 비동기 프로그래밍을 위한 제너레이터와 async/await의 동작 차이는 무엇인가요?",
+      "normalized_question": "javascript에서비동기프로그래밍을위한제너레이터와asyncawait의동작차이는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-27.md"
     }
   ]
 }
