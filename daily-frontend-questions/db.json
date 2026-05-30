@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-29T04:26:40+00:00",
+  "updated_at": "2026-05-30T04:11:20+00:00",
   "items": [
     {
       "date": "seed",
@@ -1234,6 +1234,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-29.md"
+    },
+    {
+      "date": "2026-05-30",
+      "question": "JavaScript의 프로토타입 체인(Prototype Chain)을 통한 상속의 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript의프로토타입체인prototypechain을통한상속의동작원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-30.md"
     }
   ]
 }
