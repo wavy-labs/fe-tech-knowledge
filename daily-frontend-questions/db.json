@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-30T04:11:20+00:00",
+  "updated_at": "2026-05-31T04:45:58+00:00",
   "items": [
     {
       "date": "seed",
@@ -1243,6 +1243,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-30.md"
+    },
+    {
+      "date": "2026-05-31",
+      "question": "CSS에서 Flexbox와 Grid 레이아웃의 선택 기준과 주요 차이점을 설명하세요.",
+      "normalized_question": "css에서flexbox와grid레이아웃의선택기준과주요차이점을설명하세요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-05-31.md"
     }
   ]
 }
