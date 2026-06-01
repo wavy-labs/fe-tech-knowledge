@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-31T04:45:58+00:00",
+  "updated_at": "2026-06-01T05:08:07+00:00",
   "items": [
     {
       "date": "seed",
@@ -1252,6 +1252,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-05-31.md"
+    },
+    {
+      "date": "2026-06-01",
+      "question": "JavaScript의 가비지 컬렉션 알고리즘인 '표시 및 쓸기(Mark-and-Sweep)'의 동작 원리를 설명하세요.",
+      "normalized_question": "javascript의가비지컬렉션알고리즘인표시및쓸기markandsweep의동작원리를설명하세요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-01.md"
     }
   ]
 }
