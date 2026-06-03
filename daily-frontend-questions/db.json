@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-02T04:57:15+00:00",
+  "updated_at": "2026-06-03T05:05:22+00:00",
   "items": [
     {
       "date": "seed",
@@ -1270,6 +1270,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-02.md"
+    },
+    {
+      "date": "2026-06-03",
+      "question": "JavaScript의 런타임에서 실행 컨텍스트(Execution Context)가 생성되고 소멸되는 과정은 무엇인가요?",
+      "normalized_question": "javascript의런타임에서실행컨텍스트executioncontext가생성되고소멸되는과정은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-03.md"
     }
   ]
 }
