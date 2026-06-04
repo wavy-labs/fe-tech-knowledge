@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-03T05:05:22+00:00",
+  "updated_at": "2026-06-04T04:58:26+00:00",
   "items": [
     {
       "date": "seed",
@@ -1279,6 +1279,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-03.md"
+    },
+    {
+      "date": "2026-06-04",
+      "question": "웹 브라우저의 렌더링 과정에서 리플로우(Reflow)와 리페인트(Repaint)가 발생하는 구체적인 상황과 차이점은 무엇인가요?",
+      "normalized_question": "웹브라우저의렌더링과정에서리플로우reflow와리페인트repaint가발생하는구체적인상황과차이점은무엇인가요",
+      "category": "브라우저 렌더링",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-04.md"
     }
   ]
 }
