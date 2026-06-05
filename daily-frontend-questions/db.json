@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-04T04:58:26+00:00",
+  "updated_at": "2026-06-05T04:43:40+00:00",
   "items": [
     {
       "date": "seed",
@@ -1288,6 +1288,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-04.md"
+    },
+    {
+      "date": "2026-06-05",
+      "question": "CSS의 contain 속성이 브라우저 렌더링 성능에 미치는 영향은 무엇인가요?",
+      "normalized_question": "css의contain속성이브라우저렌더링성능에미치는영향은무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-05.md"
     }
   ]
 }
