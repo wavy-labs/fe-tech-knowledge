@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-05T04:43:40+00:00",
+  "updated_at": "2026-06-06T04:15:51+00:00",
   "items": [
     {
       "date": "seed",
@@ -1297,6 +1297,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-05.md"
+    },
+    {
+      "date": "2026-06-06",
+      "question": "브라우저의 리페인트 성능 최적화를 위한 레이어 생성 조건(GPU 가속)은 무엇인가요?",
+      "normalized_question": "브라우저의리페인트성능최적화를위한레이어생성조건gpu가속은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-06.md"
     }
   ]
 }
