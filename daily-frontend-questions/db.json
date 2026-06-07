@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-06T04:15:51+00:00",
+  "updated_at": "2026-06-07T04:51:11+00:00",
   "items": [
     {
       "date": "seed",
@@ -1306,6 +1306,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-06.md"
+    },
+    {
+      "date": "2026-06-07",
+      "question": "TypeScript에서 Mapped Types를 사용하여 기존 타입을 기반으로 새로운 타입을 생성하는 원리는 무엇인가요?",
+      "normalized_question": "typescript에서mappedtypes를사용하여기존타입을기반으로새로운타입을생성하는원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-07.md"
     }
   ]
 }
