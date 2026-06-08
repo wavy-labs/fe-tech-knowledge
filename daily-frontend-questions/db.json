@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-07T04:51:11+00:00",
+  "updated_at": "2026-06-08T04:56:39+00:00",
   "items": [
     {
       "date": "seed",
@@ -1315,6 +1315,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-07.md"
+    },
+    {
+      "date": "2026-06-08",
+      "question": "웹 접근성을 위한 스크린 리더 사용 시 시각적으로 숨겨진 요소에 aria-hidden을 사용하는 이유는 무엇인가요?",
+      "normalized_question": "웹접근성을위한스크린리더사용시시각적으로숨겨진요소에ariahidden을사용하는이유는무엇인가요",
+      "category": "Accessibility",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-08.md"
     }
   ]
 }
