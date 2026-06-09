@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-08T04:56:39+00:00",
+  "updated_at": "2026-06-09T04:19:04+00:00",
   "items": [
     {
       "date": "seed",
@@ -1324,6 +1324,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-08.md"
+    },
+    {
+      "date": "2026-06-09",
+      "question": "CSS의 'will-change' 속성이 브라우저 렌더링 성능에 미치는 영향과 주의점은 무엇인가요?",
+      "normalized_question": "css의willchange속성이브라우저렌더링성능에미치는영향과주의점은무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-09.md"
     }
   ]
 }
