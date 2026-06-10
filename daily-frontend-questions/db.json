@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-09T04:19:04+00:00",
+  "updated_at": "2026-06-10T04:40:19+00:00",
   "items": [
     {
       "date": "seed",
@@ -1333,6 +1333,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-09.md"
+    },
+    {
+      "date": "2026-06-10",
+      "question": "브라우저의 리소스 우선순위 결정 방식인 'Priority Hints'가 무엇인지 설명하세요.",
+      "normalized_question": "브라우저의리소스우선순위결정방식인priorityhints가무엇인지설명하세요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-10.md"
     }
   ]
 }
