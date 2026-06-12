@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-11T04:52:30+00:00",
+  "updated_at": "2026-06-12T04:55:56+00:00",
   "items": [
     {
       "date": "seed",
@@ -1351,6 +1351,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-11.md"
+    },
+    {
+      "date": "2026-06-12",
+      "question": "JavaScript에서 이벤트 루프의 태스크 큐와 마이크로태스크 큐의 우선순위가 결정되는 이유는 무엇인가요?",
+      "normalized_question": "javascript에서이벤트루프의태스크큐와마이크로태스크큐의우선순위가결정되는이유는무엇인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-12.md"
     }
   ]
 }
