@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-12T04:55:56+00:00",
+  "updated_at": "2026-06-13T04:43:15+00:00",
   "items": [
     {
       "date": "seed",
@@ -1360,6 +1360,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-12.md"
+    },
+    {
+      "date": "2026-06-13",
+      "question": "HTTP/2의 멀티플렉싱(Multiplexing)이 기존 HTTP/1.1의 HOL(Head-of-Line) Blocking 문제를 해결하는 원리는 무엇인가요?",
+      "normalized_question": "http2의멀티플렉싱multiplexing이기존http11의holheadoflineblocking문제를해결하는원리는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-13.md"
     }
   ]
 }
