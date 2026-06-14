@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-13T04:43:15+00:00",
+  "updated_at": "2026-06-14T05:03:18+00:00",
   "items": [
     {
       "date": "seed",
@@ -1369,6 +1369,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-13.md"
+    },
+    {
+      "date": "2026-06-14",
+      "question": "JavaScript의 이벤트 루프에서 프로세스 틱(Tick)의 개념과 마이크로태스크 처리 시점은 무엇인가요?",
+      "normalized_question": "javascript의이벤트루프에서프로세스틱tick의개념과마이크로태스크처리시점은무엇인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-14.md"
     }
   ]
 }
