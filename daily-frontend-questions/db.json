@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-14T05:03:18+00:00",
+  "updated_at": "2026-06-15T05:21:28+00:00",
   "items": [
     {
       "date": "seed",
@@ -1378,6 +1378,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-14.md"
+    },
+    {
+      "date": "2026-06-15",
+      "question": "JavaScript의 Web API인 Intersection Observer가 메인 스레드에 미치는 영향은 무엇인가요?",
+      "normalized_question": "javascript의webapi인intersectionobserver가메인스레드에미치는영향은무엇인가요",
+      "category": "Browser Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-15.md"
     }
   ]
 }
