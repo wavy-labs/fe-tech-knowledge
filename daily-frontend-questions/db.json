@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-15T05:21:28+00:00",
+  "updated_at": "2026-06-16T05:25:16+00:00",
   "items": [
     {
       "date": "seed",
@@ -1387,6 +1387,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-15.md"
+    },
+    {
+      "date": "2026-06-16",
+      "question": "Vue 3의 가상 DOM(Virtual DOM) 패치 알고리즘에서 최적화를 위해 사용하는 '렌더링 최적화 힌트'란 무엇인가요?",
+      "normalized_question": "vue3의가상domvirtualdom패치알고리즘에서최적화를위해사용하는렌더링최적화힌트란무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-16.md"
     }
   ]
 }
