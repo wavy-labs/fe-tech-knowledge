@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-17T05:04:27+00:00",
+  "updated_at": "2026-06-18T04:55:05+00:00",
   "items": [
     {
       "date": "seed",
@@ -1405,6 +1405,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-17.md"
+    },
+    {
+      "date": "2026-06-18",
+      "question": "React의 동시성 모드(Concurrent Mode)에서 렌더링이 중단되고 재개되는 동작 원리는 무엇인가요?",
+      "normalized_question": "react의동시성모드concurrentmode에서렌더링이중단되고재개되는동작원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-18.md"
     }
   ]
 }
