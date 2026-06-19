@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-18T04:55:05+00:00",
+  "updated_at": "2026-06-19T05:19:08+00:00",
   "items": [
     {
       "date": "seed",
@@ -1414,6 +1414,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-18.md"
+    },
+    {
+      "date": "2026-06-19",
+      "question": "JWT를 브라우저에 저장할 때 XSS와 CSRF 공격에 취약해지는 이유는 무엇인가요?",
+      "normalized_question": "jwt를브라우저에저장할때xss와csrf공격에취약해지는이유는무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-19.md"
     }
   ]
 }
