@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-19T05:19:08+00:00",
+  "updated_at": "2026-06-20T04:26:16+00:00",
   "items": [
     {
       "date": "seed",
@@ -1423,6 +1423,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-19.md"
+    },
+    {
+      "date": "2026-06-20",
+      "question": "브라우저의 리소스 로딩 전략인 'Lazy Loading'이 웹 성능에 미치는 영향은 무엇인가요?",
+      "normalized_question": "브라우저의리소스로딩전략인lazyloading이웹성능에미치는영향은무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-20.md"
     }
   ]
 }
