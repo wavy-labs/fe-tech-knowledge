@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-20T04:26:16+00:00",
+  "updated_at": "2026-06-21T05:12:55+00:00",
   "items": [
     {
       "date": "seed",
@@ -1432,6 +1432,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-20.md"
+    },
+    {
+      "date": "2026-06-21",
+      "question": "JavaScript의 얕은 복사(Shallow Copy)와 깊은 복사(Deep Copy)의 차이점과 구현 방법을 설명하세요.",
+      "normalized_question": "javascript의얕은복사shallowcopy와깊은복사deepcopy의차이점과구현방법을설명하세요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-21.md"
     }
   ]
 }
