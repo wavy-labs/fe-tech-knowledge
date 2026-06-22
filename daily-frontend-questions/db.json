@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-21T05:12:55+00:00",
+  "updated_at": "2026-06-22T05:22:37+00:00",
   "items": [
     {
       "date": "seed",
@@ -1441,6 +1441,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-21.md"
+    },
+    {
+      "date": "2026-06-22",
+      "question": "JavaScript에서 비동기 처리 시 마이크로태스크 큐가 비워지는 시점은 언제인가요?",
+      "normalized_question": "javascript에서비동기처리시마이크로태스크큐가비워지는시점은언제인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-22.md"
     }
   ]
 }
