@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-22T05:22:37+00:00",
+  "updated_at": "2026-06-23T04:15:48+00:00",
   "items": [
     {
       "date": "seed",
@@ -1450,6 +1450,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-22.md"
+    },
+    {
+      "date": "2026-06-23",
+      "question": "브라우저의 리소스 로딩 방식 중 모듈 프리로딩(modulepreload)이 일반적인 preload와 다른 점은 무엇인가요?",
+      "normalized_question": "브라우저의리소스로딩방식중모듈프리로딩modulepreload이일반적인preload와다른점은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-23.md"
     }
   ]
 }
