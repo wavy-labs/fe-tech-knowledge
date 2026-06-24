@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-23T04:15:48+00:00",
+  "updated_at": "2026-06-24T04:19:44+00:00",
   "items": [
     {
       "date": "seed",
@@ -1459,6 +1459,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-23.md"
+    },
+    {
+      "date": "2026-06-24",
+      "question": "JavaScript에서 WeakMap과 Map의 차이점과 가비지 컬렉션 관계를 설명하세요.",
+      "normalized_question": "javascript에서weakmap과map의차이점과가비지컬렉션관계를설명하세요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-24.md"
     }
   ]
 }
