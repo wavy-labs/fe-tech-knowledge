@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-24T04:19:44+00:00",
+  "updated_at": "2026-06-25T04:18:29+00:00",
   "items": [
     {
       "date": "seed",
@@ -1468,6 +1468,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-24.md"
+    },
+    {
+      "date": "2026-06-25",
+      "question": "프론트엔드 테스트에서 모킹(Mocking)을 사용할 때 실제 구현체와의 불일치를 방지하는 방법은 무엇인가요?",
+      "normalized_question": "프론트엔드테스트에서모킹mocking을사용할때실제구현체와의불일치를방지하는방법은무엇인가요",
+      "category": "Testing",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-25.md"
     }
   ]
 }
