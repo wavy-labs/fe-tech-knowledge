@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-26T04:24:41+00:00",
+  "updated_at": "2026-06-27T04:11:45+00:00",
   "items": [
     {
       "date": "seed",
@@ -1486,6 +1486,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-26.md"
+    },
+    {
+      "date": "2026-06-27",
+      "question": "React에서 하이드레이션(Hydration) 과정 중 발생하는 불일치(Mismatch) 현상의 원인과 해결법은 무엇인가요?",
+      "normalized_question": "react에서하이드레이션hydration과정중발생하는불일치mismatch현상의원인과해결법은무엇인가요",
+      "category": "Rendering Strategy",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-27.md"
     }
   ]
 }
