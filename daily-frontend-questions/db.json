@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-27T04:11:45+00:00",
+  "updated_at": "2026-06-28T04:45:19+00:00",
   "items": [
     {
       "date": "seed",
@@ -1495,6 +1495,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-27.md"
+    },
+    {
+      "date": "2026-06-28",
+      "question": "브라우저의 리소스 힌트인 'preload'와 'prefetch'의 우선순위와 동작 방식의 차이는 무엇인가요?",
+      "normalized_question": "브라우저의리소스힌트인preload와prefetch의우선순위와동작방식의차이는무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-28.md"
     }
   ]
 }
