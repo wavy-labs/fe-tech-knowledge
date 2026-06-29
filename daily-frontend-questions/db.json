@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-28T04:45:19+00:00",
+  "updated_at": "2026-06-29T04:53:22+00:00",
   "items": [
     {
       "date": "seed",
@@ -1504,6 +1504,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-28.md"
+    },
+    {
+      "date": "2026-06-29",
+      "question": "React의 useMemo와 useCallback이 메모이제이션을 통해 렌더링 성능을 최적화하는 원리는 무엇인가요?",
+      "normalized_question": "react의usememo와usecallback이메모이제이션을통해렌더링성능을최적화하는원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-29.md"
     }
   ]
 }
