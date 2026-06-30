@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-29T04:53:22+00:00",
+  "updated_at": "2026-06-30T04:19:56+00:00",
   "items": [
     {
       "date": "seed",
@@ -1513,6 +1513,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-29.md"
+    },
+    {
+      "date": "2026-06-30",
+      "question": "Vue 3의 반응성 시스템에서 effectScope API의 역할과 사용 목적은 무엇인가요?",
+      "normalized_question": "vue3의반응성시스템에서effectscopeapi의역할과사용목적은무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-06-30.md"
     }
   ]
 }
