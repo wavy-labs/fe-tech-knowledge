@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-30T04:19:56+00:00",
+  "updated_at": "2026-07-01T04:48:05+00:00",
   "items": [
     {
       "date": "seed",
@@ -1522,6 +1522,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-06-30.md"
+    },
+    {
+      "date": "2026-07-01",
+      "question": "JavaScript에서 옵저버 패턴을 활용한 상태 관리 라이브러리의 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript에서옵저버패턴을활용한상태관리라이브러리의동작원리는무엇인가요",
+      "category": "Design Pattern",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-01.md"
     }
   ]
 }
