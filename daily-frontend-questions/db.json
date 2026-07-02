@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-01T04:48:05+00:00",
+  "updated_at": "2026-07-02T04:15:13+00:00",
   "items": [
     {
       "date": "seed",
@@ -1531,6 +1531,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-01.md"
+    },
+    {
+      "date": "2026-07-02",
+      "question": "Vue 3의 템플릿 컴파일러가 정적 호이스팅(Static Hoisting)을 통해 렌더링 성능을 최적화하는 원리는 무엇인가요?",
+      "normalized_question": "vue3의템플릿컴파일러가정적호이스팅statichoisting을통해렌더링성능을최적화하는원리는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-02.md"
     }
   ]
 }
