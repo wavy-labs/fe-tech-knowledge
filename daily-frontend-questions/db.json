@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-03T04:01:38+00:00",
+  "updated_at": "2026-07-04T03:55:27+00:00",
   "items": [
     {
       "date": "seed",
@@ -1549,6 +1549,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-03.md"
+    },
+    {
+      "date": "2026-07-04",
+      "question": "JavaScript에서 비동기 함수 실행 시 발생하는 '마이크로태스크 큐'의 우선순위가 이벤트 루프 전체 성능에 미치는 영향은 무엇인가요?",
+      "normalized_question": "javascript에서비동기함수실행시발생하는마이크로태스크큐의우선순위가이벤트루프전체성능에미치는영향은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-04.md"
     }
   ]
 }
