@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-04T03:55:27+00:00",
+  "updated_at": "2026-07-05T04:14:39+00:00",
   "items": [
     {
       "date": "seed",
@@ -1558,6 +1558,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-04.md"
+    },
+    {
+      "date": "2026-07-05",
+      "question": "TypeScript에서 'Type Narrowing'을 위해 사용하는 타입 가드(Type Guards)의 종류와 동작 원리는 무엇인가요?",
+      "normalized_question": "typescript에서typenarrowing을위해사용하는타입가드typeguards의종류와동작원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-05.md"
     }
   ]
 }
