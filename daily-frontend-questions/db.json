@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-06T04:22:16+00:00",
+  "updated_at": "2026-07-07T04:11:30+00:00",
   "items": [
     {
       "date": "seed",
@@ -1576,6 +1576,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-06.md"
+    },
+    {
+      "date": "2026-07-07",
+      "question": "브라우저의 렌더링 파이프라인에서 '페인트 홀딩(Paint Holding)'의 개념과 이것이 사용자 경험에 미치는 영향은 무엇인가요?",
+      "normalized_question": "브라우저의렌더링파이프라인에서페인트홀딩paintholding의개념과이것이사용자경험에미치는영향은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-07.md"
     }
   ]
 }
