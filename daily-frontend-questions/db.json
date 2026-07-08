@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-07T04:11:30+00:00",
+  "updated_at": "2026-07-08T03:35:50+00:00",
   "items": [
     {
       "date": "seed",
@@ -1585,6 +1585,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-07.md"
+    },
+    {
+      "date": "2026-07-08",
+      "question": "콘텐츠 보안 정책(CSP)을 설정할 때 nonce와 hash의 차이점은 무엇인가요?",
+      "normalized_question": "콘텐츠보안정책csp을설정할때nonce와hash의차이점은무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-08.md"
     }
   ]
 }
