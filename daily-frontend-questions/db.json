@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-08T03:35:50+00:00",
+  "updated_at": "2026-07-09T04:11:06+00:00",
   "items": [
     {
       "date": "seed",
@@ -1594,6 +1594,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-08.md"
+    },
+    {
+      "date": "2026-07-09",
+      "question": "브라우저의 하드웨어 가속 시 발생하는 컴포지팅(Compositing) 과정의 동작 원리를 설명하세요.",
+      "normalized_question": "브라우저의하드웨어가속시발생하는컴포지팅compositing과정의동작원리를설명하세요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-09.md"
     }
   ]
 }
