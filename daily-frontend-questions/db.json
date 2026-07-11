@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-10T04:06:13+00:00",
+  "updated_at": "2026-07-11T03:33:43+00:00",
   "items": [
     {
       "date": "seed",
@@ -1612,6 +1612,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-10.md"
+    },
+    {
+      "date": "2026-07-11",
+      "question": "HTTP/2 서버 푸시(Server Push)의 개념과 현재 웹 표준에서 권장되지 않는 이유는 무엇인가요?",
+      "normalized_question": "http2서버푸시serverpush의개념과현재웹표준에서권장되지않는이유는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-11.md"
     }
   ]
 }
