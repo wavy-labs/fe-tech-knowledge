@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-12T03:45:40+00:00",
+  "updated_at": "2026-07-13T03:48:00+00:00",
   "items": [
     {
       "date": "seed",
@@ -1630,6 +1630,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-12.md"
+    },
+    {
+      "date": "2026-07-13",
+      "question": "HTTP/1.1의 Keep-Alive 연결과 HTTP/2의 연결 관리 방식의 차이를 설명하세요.",
+      "normalized_question": "http11의keepalive연결과http2의연결관리방식의차이를설명하세요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-13.md"
     }
   ]
 }
