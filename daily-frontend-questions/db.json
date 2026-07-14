@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-13T03:48:00+00:00",
+  "updated_at": "2026-07-14T03:22:47+00:00",
   "items": [
     {
       "date": "seed",
@@ -1639,6 +1639,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-13.md"
+    },
+    {
+      "date": "2026-07-14",
+      "question": "JavaScript의 런타임에서 비동기 작업을 처리하는 Promise.race와 Promise.any의 동작 차이는 무엇인가요?",
+      "normalized_question": "javascript의런타임에서비동기작업을처리하는promiserace와promiseany의동작차이는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-14.md"
     }
   ]
 }
