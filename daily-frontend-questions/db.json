@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-14T03:22:47+00:00",
+  "updated_at": "2026-07-15T03:21:49+00:00",
   "items": [
     {
       "date": "seed",
@@ -1648,6 +1648,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-14.md"
+    },
+    {
+      "date": "2026-07-15",
+      "question": "CSS의 스태킹 컨텍스트(Stacking Context)가 생성되는 조건과 z-index 우선순위 결정 방식은 무엇인가요?",
+      "normalized_question": "css의스태킹컨텍스트stackingcontext가생성되는조건과zindex우선순위결정방식은무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-15.md"
     }
   ]
 }
