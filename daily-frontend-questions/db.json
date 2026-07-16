@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-15T03:21:49+00:00",
+  "updated_at": "2026-07-16T03:30:37+00:00",
   "items": [
     {
       "date": "seed",
@@ -1657,6 +1657,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-15.md"
+    },
+    {
+      "date": "2026-07-16",
+      "question": "React의 서버 컴포넌트(Server Components)와 클라이언트 컴포넌트의 차이점과 데이터 전달 방식은 무엇인가요?",
+      "normalized_question": "react의서버컴포넌트servercomponents와클라이언트컴포넌트의차이점과데이터전달방식은무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-16.md"
     }
   ]
 }
