@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-16T03:30:37+00:00",
+  "updated_at": "2026-07-17T03:30:21+00:00",
   "items": [
     {
       "date": "seed",
@@ -1666,6 +1666,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-16.md"
+    },
+    {
+      "date": "2026-07-17",
+      "question": "웹 접근성에서 키보드 포커스 트랩(Focus Trap)이 필요한 상황과 구현 원리는 무엇인가요?",
+      "normalized_question": "웹접근성에서키보드포커스트랩focustrap이필요한상황과구현원리는무엇인가요",
+      "category": "Accessibility",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-17.md"
     }
   ]
 }
