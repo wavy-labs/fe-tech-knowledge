@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-17T03:30:21+00:00",
+  "updated_at": "2026-07-18T03:20:09+00:00",
   "items": [
     {
       "date": "seed",
@@ -1675,6 +1675,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-17.md"
+    },
+    {
+      "date": "2026-07-18",
+      "question": "브라우저의 리소스 로딩 전략인 '리소스 힌트(Resource Hints)' 중 dns-prefetch와 preconnect의 차이점은 무엇인가요?",
+      "normalized_question": "브라우저의리소스로딩전략인리소스힌트resourcehints중dnsprefetch와preconnect의차이점은무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-18.md"
     }
   ]
 }
