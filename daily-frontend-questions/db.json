@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-18T03:20:09+00:00",
+  "updated_at": "2026-07-19T03:40:36+00:00",
   "items": [
     {
       "date": "seed",
@@ -1684,6 +1684,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-18.md"
+    },
+    {
+      "date": "2026-07-19",
+      "question": "브라우저의 브로드캐스트 채널(Broadcast Channel) API의 동작 원리와 활용 사례는 무엇인가요?",
+      "normalized_question": "브라우저의브로드캐스트채널broadcastchannelapi의동작원리와활용사례는무엇인가요",
+      "category": "Browser API",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-19.md"
     }
   ]
 }
