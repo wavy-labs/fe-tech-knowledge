@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-19T03:40:36+00:00",
+  "updated_at": "2026-07-20T03:54:17+00:00",
   "items": [
     {
       "date": "seed",
@@ -1693,6 +1693,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-19.md"
+    },
+    {
+      "date": "2026-07-20",
+      "question": "JavaScript의 Proxy 객체를 활용하여 데이터 바인딩을 구현하는 원리는 무엇인가요?",
+      "normalized_question": "javascript의proxy객체를활용하여데이터바인딩을구현하는원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-20.md"
     }
   ]
 }
