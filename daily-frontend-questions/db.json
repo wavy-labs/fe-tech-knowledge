@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-20T03:54:17+00:00",
+  "updated_at": "2026-07-21T03:34:33+00:00",
   "items": [
     {
       "date": "seed",
@@ -1702,6 +1702,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-20.md"
+    },
+    {
+      "date": "2026-07-21",
+      "question": "웹 접근성을 위해 aria-live 속성의 assertive와 polite 값은 어떤 차이가 있나요?",
+      "normalized_question": "웹접근성을위해arialive속성의assertive와polite값은어떤차이가있나요",
+      "category": "Accessibility",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-21.md"
     }
   ]
 }
