@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-21T03:34:33+00:00",
+  "updated_at": "2026-07-22T03:33:32+00:00",
   "items": [
     {
       "date": "seed",
@@ -1711,6 +1711,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-21.md"
+    },
+    {
+      "date": "2026-07-22",
+      "question": "CSS의 Grid 레이아웃에서 minmax() 함수가 반응형 디자인에 기여하는 원리는 무엇인가요?",
+      "normalized_question": "css의grid레이아웃에서minmax함수가반응형디자인에기여하는원리는무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-22.md"
     }
   ]
 }
