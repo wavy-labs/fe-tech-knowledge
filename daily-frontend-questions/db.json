@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-22T03:33:32+00:00",
+  "updated_at": "2026-07-23T03:37:55+00:00",
   "items": [
     {
       "date": "seed",
@@ -1720,6 +1720,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-22.md"
+    },
+    {
+      "date": "2026-07-23",
+      "question": "Vue 3의 반응성 시스템에서 computed 속성이 캐싱을 유지하는 원리는 무엇인가요?",
+      "normalized_question": "vue3의반응성시스템에서computed속성이캐싱을유지하는원리는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-23.md"
     }
   ]
 }
