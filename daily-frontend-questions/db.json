@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-23T03:37:55+00:00",
+  "updated_at": "2026-07-24T03:35:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -1729,6 +1729,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-23.md"
+    },
+    {
+      "date": "2026-07-24",
+      "question": "TypeScript에서 조건부 타입(Conditional Types)의 분배적 법칙은 무엇인가요?",
+      "normalized_question": "typescript에서조건부타입conditionaltypes의분배적법칙은무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-24.md"
     }
   ]
 }
