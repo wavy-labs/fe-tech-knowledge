@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-24T03:35:24+00:00",
+  "updated_at": "2026-07-25T03:32:01+00:00",
   "items": [
     {
       "date": "seed",
@@ -1738,6 +1738,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-24.md"
+    },
+    {
+      "date": "2026-07-25",
+      "question": "Vue 3의 반응성 시스템에서 ref와 reactive의 내부 구현 차이는 무엇인가요?",
+      "normalized_question": "vue3의반응성시스템에서ref와reactive의내부구현차이는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-25.md"
     }
   ]
 }
