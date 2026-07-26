@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-25T03:32:01+00:00",
+  "updated_at": "2026-07-26T03:46:38+00:00",
   "items": [
     {
       "date": "seed",
@@ -1747,6 +1747,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-25.md"
+    },
+    {
+      "date": "2026-07-26",
+      "question": "JavaScript에서 가비지 컬렉터가 순환 참조를 탐지하고 해제하는 원리는 무엇인가요?",
+      "normalized_question": "javascript에서가비지컬렉터가순환참조를탐지하고해제하는원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-26.md"
     }
   ]
 }
