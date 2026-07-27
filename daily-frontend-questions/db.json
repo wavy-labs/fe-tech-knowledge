@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-26T03:46:38+00:00",
+  "updated_at": "2026-07-27T03:55:01+00:00",
   "items": [
     {
       "date": "seed",
@@ -1756,6 +1756,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-26.md"
+    },
+    {
+      "date": "2026-07-27",
+      "question": "브라우저에서 리플로우가 발생하는 주요 원인과 이를 방지하는 방법은 무엇인가요?",
+      "normalized_question": "브라우저에서리플로우가발생하는주요원인과이를방지하는방법은무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-27.md"
     }
   ]
 }
