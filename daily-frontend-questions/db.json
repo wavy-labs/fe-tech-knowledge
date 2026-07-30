@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-29T03:28:31+00:00",
+  "updated_at": "2026-07-30T03:17:06+00:00",
   "items": [
     {
       "date": "seed",
@@ -1783,6 +1783,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-29.md"
+    },
+    {
+      "date": "2026-07-30",
+      "question": "JavaScript에서 클로저를 사용할 때 메모리 누수가 발생하는 원인은 무엇인가요?",
+      "normalized_question": "javascript에서클로저를사용할때메모리누수가발생하는원인은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-07-30.md"
     }
   ]
 }
