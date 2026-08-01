@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-31T03:43:27+00:00",
+  "updated_at": "2026-08-01T03:42:11+00:00",
   "items": [
     {
       "date": "seed",
@@ -1801,6 +1801,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-07-31.md"
+    },
+    {
+      "date": "2026-08-01",
+      "question": "브라우저의 리플로우와 리페인트 과정을 최적화하는 렌더링 패턴은 무엇인가요?",
+      "normalized_question": "브라우저의리플로우와리페인트과정을최적화하는렌더링패턴은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-01.md"
     }
   ]
 }
