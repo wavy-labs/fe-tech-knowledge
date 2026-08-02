@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-01T03:42:11+00:00",
+  "updated_at": "2026-08-02T03:42:00+00:00",
   "items": [
     {
       "date": "seed",
@@ -1810,6 +1810,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-01.md"
+    },
+    {
+      "date": "2026-08-02",
+      "question": "브라우저에서 리소스의 우선순위를 동적으로 조정하는 Fetch Priority API의 동작 방식은 무엇인가요?",
+      "normalized_question": "브라우저에서리소스의우선순위를동적으로조정하는fetchpriorityapi의동작방식은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-02.md"
     }
   ]
 }
