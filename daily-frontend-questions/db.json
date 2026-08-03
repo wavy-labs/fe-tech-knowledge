@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-02T03:42:00+00:00",
+  "updated_at": "2026-08-03T03:45:38+00:00",
   "items": [
     {
       "date": "seed",
@@ -1819,6 +1819,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-02.md"
+    },
+    {
+      "date": "2026-08-03",
+      "question": "TypeScript의 템플릿 리터럴 타입을 활용해 문자열 패턴을 검증하는 원리는 무엇인가요?",
+      "normalized_question": "typescript의템플릿리터럴타입을활용해문자열패턴을검증하는원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-03.md"
     }
   ]
 }
