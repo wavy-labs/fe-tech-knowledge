@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T03:45:38+00:00",
+  "updated_at": "2026-08-04T03:29:08+00:00",
   "items": [
     {
       "date": "seed",
@@ -1828,6 +1828,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-03.md"
+    },
+    {
+      "date": "2026-08-04",
+      "question": "JavaScript에서 Symbol.iterator 심볼의 역할과 커스텀 이터러블 객체 구현 방법은 무엇인가요?",
+      "normalized_question": "javascript에서symboliterator심볼의역할과커스텀이터러블객체구현방법은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-04.md"
     }
   ]
 }
