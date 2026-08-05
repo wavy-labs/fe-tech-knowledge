@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-04T03:29:08+00:00",
+  "updated_at": "2026-08-05T03:25:01+00:00",
   "items": [
     {
       "date": "seed",
@@ -1837,6 +1837,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-04.md"
+    },
+    {
+      "date": "2026-08-05",
+      "question": "CORS 설정 시 Access-Control-Allow-Credentials 헤더가 true일 때 보안상 주의할 점은 무엇인가요?",
+      "normalized_question": "cors설정시accesscontrolallowcredentials헤더가true일때보안상주의할점은무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-05.md"
     }
   ]
 }
