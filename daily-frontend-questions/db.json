@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-05T03:25:01+00:00",
+  "updated_at": "2026-08-06T03:29:11+00:00",
   "items": [
     {
       "date": "seed",
@@ -1846,6 +1846,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-05.md"
+    },
+    {
+      "date": "2026-08-06",
+      "question": "JavaScript에서 BigInt를 사용할 때 일반 Number 타입과 구별되는 연산상의 제약은 무엇인가요?",
+      "normalized_question": "javascript에서bigint를사용할때일반number타입과구별되는연산상의제약은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-06.md"
     }
   ]
 }
