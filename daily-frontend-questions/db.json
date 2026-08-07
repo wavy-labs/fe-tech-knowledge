@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-06T03:29:11+00:00",
+  "updated_at": "2026-08-07T03:15:14+00:00",
   "items": [
     {
       "date": "seed",
@@ -1855,6 +1855,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-06.md"
+    },
+    {
+      "date": "2026-08-07",
+      "question": "동일 출처 정책(SOP)을 우회하기 위해 CORS 요청 시 프리플라이트(Preflight) 요청이 발생하는 조건은 무엇인가요?",
+      "normalized_question": "동일출처정책sop을우회하기위해cors요청시프리플라이트preflight요청이발생하는조건은무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-07.md"
     }
   ]
 }
