@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T03:15:14+00:00",
+  "updated_at": "2026-08-08T02:09:54+00:00",
   "items": [
     {
       "date": "seed",
@@ -1864,6 +1864,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-07.md"
+    },
+    {
+      "date": "2026-08-08",
+      "question": "브라우저에서 리소스를 미리 가져오는 preconnect와 dns-prefetch의 차이점은 무엇인가요?",
+      "normalized_question": "브라우저에서리소스를미리가져오는preconnect와dnsprefetch의차이점은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-08.md"
     }
   ]
 }
