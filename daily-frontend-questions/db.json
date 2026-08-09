@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-08T02:09:54+00:00",
+  "updated_at": "2026-08-09T02:21:59+00:00",
   "items": [
     {
       "date": "seed",
@@ -1873,6 +1873,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-08.md"
+    },
+    {
+      "date": "2026-08-09",
+      "question": "CSS의 컨테이닝 블록(Containing Block)이 결정되는 규칙은 무엇인가요?",
+      "normalized_question": "css의컨테이닝블록containingblock이결정되는규칙은무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-09.md"
     }
   ]
 }
