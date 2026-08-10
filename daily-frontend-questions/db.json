@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-09T02:21:59+00:00",
+  "updated_at": "2026-08-10T02:27:02+00:00",
   "items": [
     {
       "date": "seed",
@@ -1882,6 +1882,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-09.md"
+    },
+    {
+      "date": "2026-08-10",
+      "question": "JavaScript에서 이벤트 위임(Event Delegation)의 동작 원리와 장점을 설명하세요.",
+      "normalized_question": "javascript에서이벤트위임eventdelegation의동작원리와장점을설명하세요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-10.md"
     }
   ]
 }
