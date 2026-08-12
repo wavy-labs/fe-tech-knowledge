@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11T02:20:27+00:00",
+  "updated_at": "2026-08-12T02:35:16+00:00",
   "items": [
     {
       "date": "seed",
@@ -1900,6 +1900,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-11.md"
+    },
+    {
+      "date": "2026-08-12",
+      "question": "브라우저에서 리소스를 로딩할 때 미디어 쿼리 기반의 반응형 이미지 로딩을 최적화하는 srcset과 sizes 속성의 동작 원리는 무엇인가요?",
+      "normalized_question": "브라우저에서리소스를로딩할때미디어쿼리기반의반응형이미지로딩을최적화하는srcset과sizes속성의동작원리는무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-12.md"
     }
   ]
 }
