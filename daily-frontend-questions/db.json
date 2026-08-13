@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T02:35:16+00:00",
+  "updated_at": "2026-08-13T02:37:30+00:00",
   "items": [
     {
       "date": "seed",
@@ -1909,6 +1909,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-12.md"
+    },
+    {
+      "date": "2026-08-13",
+      "question": "웹 퍼포먼스 측정 시 레이아웃 시프트(CLS)를 유발하는 주요 원인과 해결 방법은 무엇인가요?",
+      "normalized_question": "웹퍼포먼스측정시레이아웃시프트cls를유발하는주요원인과해결방법은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-13.md"
     }
   ]
 }
