@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-13T02:37:30+00:00",
+  "updated_at": "2026-08-14T02:39:56+00:00",
   "items": [
     {
       "date": "seed",
@@ -1918,6 +1918,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-13.md"
+    },
+    {
+      "date": "2026-08-14",
+      "question": "JavaScript에서 WeakMap을 사용하여 메모리 누수를 방지하는 원리는 무엇인가요?",
+      "normalized_question": "javascript에서weakmap을사용하여메모리누수를방지하는원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-14.md"
     }
   ]
 }
