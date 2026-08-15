@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-14T02:39:56+00:00",
+  "updated_at": "2026-08-15T01:44:22+00:00",
   "items": [
     {
       "date": "seed",
@@ -1927,6 +1927,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-14.md"
+    },
+    {
+      "date": "2026-08-15",
+      "question": "TypeScript에서 맵드 타입(Mapped Types)을 활용해 기존 객체 타입을 변환하는 원리는 무엇인가요?",
+      "normalized_question": "typescript에서맵드타입mappedtypes을활용해기존객체타입을변환하는원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-15.md"
     }
   ]
 }
