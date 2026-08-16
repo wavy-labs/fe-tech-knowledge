@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-15T01:44:22+00:00",
+  "updated_at": "2026-08-16T01:51:48+00:00",
   "items": [
     {
       "date": "seed",
@@ -1936,6 +1936,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-15.md"
+    },
+    {
+      "date": "2026-08-16",
+      "question": "웹 퍼포먼스 최적화를 위한 Largest Contentful Paint(LCP) 측정 시 주요 고려 사항은 무엇인가요?",
+      "normalized_question": "웹퍼포먼스최적화를위한largestcontentfulpaintlcp측정시주요고려사항은무엇인가요",
+      "category": "Web Performance",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-16.md"
     }
   ]
 }
