@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-16T01:51:48+00:00",
+  "updated_at": "2026-08-17T01:49:45+00:00",
   "items": [
     {
       "date": "seed",
@@ -1945,6 +1945,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-16.md"
+    },
+    {
+      "date": "2026-08-17",
+      "question": "CSS의 레이아웃 알고리즘에서 플렉스 박스의 min-width 기본값이 0이 아닌 이유와 영향은 무엇인가요?",
+      "normalized_question": "css의레이아웃알고리즘에서플렉스박스의minwidth기본값이0이아닌이유와영향은무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-17.md"
     }
   ]
 }
