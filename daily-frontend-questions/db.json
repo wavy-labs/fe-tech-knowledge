@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-17T01:49:45+00:00",
+  "updated_at": "2026-08-18T01:44:26+00:00",
   "items": [
     {
       "date": "seed",
@@ -1954,6 +1954,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-17.md"
+    },
+    {
+      "date": "2026-08-18",
+      "question": "HTTP/3에서 TCP 대신 QUIC 프로토콜을 사용하는 핵심 이유는 무엇인가요?",
+      "normalized_question": "http3에서tcp대신quic프로토콜을사용하는핵심이유는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-18.md"
     }
   ]
 }
