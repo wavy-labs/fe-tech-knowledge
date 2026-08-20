@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T01:46:27+00:00",
+  "updated_at": "2026-08-20T01:45:41+00:00",
   "items": [
     {
       "date": "seed",
@@ -1972,6 +1972,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-19.md"
+    },
+    {
+      "date": "2026-08-20",
+      "question": "React에서 useTransition 훅의 동작 원리와 렌더링 최적화 방식은 무엇인가요?",
+      "normalized_question": "react에서usetransition훅의동작원리와렌더링최적화방식은무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-20.md"
     }
   ]
 }
