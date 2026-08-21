@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-20T01:45:41+00:00",
+  "updated_at": "2026-08-21T01:50:58+00:00",
   "items": [
     {
       "date": "seed",
@@ -1981,6 +1981,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-20.md"
+    },
+    {
+      "date": "2026-08-21",
+      "question": "JavaScript에서 구조 분해 할당 시 얕은 복사가 이루어지는 이유는 무엇인가요?",
+      "normalized_question": "javascript에서구조분해할당시얕은복사가이루어지는이유는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-21.md"
     }
   ]
 }
