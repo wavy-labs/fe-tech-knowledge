@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-21T01:50:58+00:00",
+  "updated_at": "2026-08-22T01:44:53+00:00",
   "items": [
     {
       "date": "seed",
@@ -1990,6 +1990,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-21.md"
+    },
+    {
+      "date": "2026-08-22",
+      "question": "JavaScript에서 큐(Queue)를 구현할 때 배열 대신 연결 리스트를 사용하는 성능상 이유는 무엇인가요?",
+      "normalized_question": "javascript에서큐queue를구현할때배열대신연결리스트를사용하는성능상이유는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-22.md"
     }
   ]
 }
