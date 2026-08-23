@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-22T01:44:53+00:00",
+  "updated_at": "2026-08-23T01:53:54+00:00",
   "items": [
     {
       "date": "seed",
@@ -1999,6 +1999,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-22.md"
+    },
+    {
+      "date": "2026-08-23",
+      "question": "브라우저에서 리소스를 로딩할 때 preload와 prefetch의 차이점과 우선순위는 무엇인가요?",
+      "normalized_question": "브라우저에서리소스를로딩할때preload와prefetch의차이점과우선순위는무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-23.md"
     }
   ]
 }
