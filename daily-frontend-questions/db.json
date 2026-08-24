@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-23T01:53:54+00:00",
+  "updated_at": "2026-08-24T01:51:33+00:00",
   "items": [
     {
       "date": "seed",
@@ -2008,6 +2008,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-23.md"
+    },
+    {
+      "date": "2026-08-24",
+      "question": "TypeScript의 타입 시스템에서 데코레이터(Decorator)의 실행 순서는 어떻게 되나요?",
+      "normalized_question": "typescript의타입시스템에서데코레이터decorator의실행순서는어떻게되나요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-24.md"
     }
   ]
 }
