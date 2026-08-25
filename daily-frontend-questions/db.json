@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-24T01:51:33+00:00",
+  "updated_at": "2026-08-25T01:45:54+00:00",
   "items": [
     {
       "date": "seed",
@@ -2017,6 +2017,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-24.md"
+    },
+    {
+      "date": "2026-08-25",
+      "question": "웹 브라우저의 웹소켓(WebSocket) 프로토콜 핸드셰이크 과정은 어떻게 동작하나요?",
+      "normalized_question": "웹브라우저의웹소켓websocket프로토콜핸드셰이크과정은어떻게동작하나요",
+      "category": "Network",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-25.md"
     }
   ]
 }
