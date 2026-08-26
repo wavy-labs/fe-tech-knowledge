@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T01:45:54+00:00",
+  "updated_at": "2026-08-26T01:51:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -2026,6 +2026,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-25.md"
+    },
+    {
+      "date": "2026-08-26",
+      "question": "브라우저의 렌더링 성능 최적화를 위한 레이어(Layer) 승격 조건은 무엇인가요?",
+      "normalized_question": "브라우저의렌더링성능최적화를위한레이어layer승격조건은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-26.md"
     }
   ]
 }
