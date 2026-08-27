@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T01:51:24+00:00",
+  "updated_at": "2026-08-27T09:30:23+00:00",
   "items": [
     {
       "date": "seed",
@@ -2035,6 +2035,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-26.md"
+    },
+    {
+      "date": "2026-08-27",
+      "question": "HTTP 상태 코드 204 No Content의 응답 특성과 활용 사례는 무엇인가요?",
+      "normalized_question": "http상태코드204nocontent의응답특성과활용사례는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-27.md"
     }
   ]
 }
