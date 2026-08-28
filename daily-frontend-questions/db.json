@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-27T09:30:23+00:00",
+  "updated_at": "2026-08-28T11:12:25+00:00",
   "items": [
     {
       "date": "seed",
@@ -2044,6 +2044,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-27.md"
+    },
+    {
+      "date": "2026-08-28",
+      "question": "React의 렌더러가 파이버(Fiber) 트리를 구축하는 재조정(Reconciliation) 과정의 동작 원리를 설명하세요.",
+      "normalized_question": "react의렌더러가파이버fiber트리를구축하는재조정reconciliation과정의동작원리를설명하세요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-28.md"
     }
   ]
 }
