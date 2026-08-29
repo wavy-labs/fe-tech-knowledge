@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-28T11:12:25+00:00",
+  "updated_at": "2026-08-29T07:03:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -2053,6 +2053,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-28.md"
+    },
+    {
+      "date": "2026-08-29",
+      "question": "JavaScript에서 커스텀 이벤트(CustomEvent)를 생성하고 전달할 때 detail 속성을 활용하는 방법은 무엇인가요?",
+      "normalized_question": "javascript에서커스텀이벤트customevent를생성하고전달할때detail속성을활용하는방법은무엇인가요",
+      "category": "DOM Event",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-29.md"
     }
   ]
 }
