@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-29T07:03:24+00:00",
+  "updated_at": "2026-08-30T05:17:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -2062,6 +2062,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-29.md"
+    },
+    {
+      "date": "2026-08-30",
+      "question": "웹팩(Webpack)의 트래리 쉐이킹(Tree Shaking)이 동작하는 조건과 ES 모듈(ESM)이 필수적인 이유는 무엇인가요?",
+      "normalized_question": "웹팩webpack의트래리쉐이킹treeshaking이동작하는조건과es모듈esm이필수적인이유는무엇인가요",
+      "category": "Build & Module",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-08-30.md"
     }
   ]
 }
