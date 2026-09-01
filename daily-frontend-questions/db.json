@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T05:22:25+00:00",
+  "updated_at": "2026-09-01T04:57:58+00:00",
   "items": [
     {
       "date": "seed",
@@ -2080,6 +2080,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-08-31.md"
+    },
+    {
+      "date": "2026-09-01",
+      "question": "웹 접근성 향상을 위해 스크린리더가 숨겨진 콘텐츠를 무시하도록 처리하는 aria-hidden 속성의 작동 방식은 무엇인가요?",
+      "normalized_question": "웹접근성향상을위해스크린리더가숨겨진콘텐츠를무시하도록처리하는ariahidden속성의작동방식은무엇인가요",
+      "category": "Accessibility",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-01.md"
     }
   ]
 }
