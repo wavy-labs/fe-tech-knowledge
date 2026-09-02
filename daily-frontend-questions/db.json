@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T04:57:58+00:00",
+  "updated_at": "2026-09-02T04:19:05+00:00",
   "items": [
     {
       "date": "seed",
@@ -2089,6 +2089,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-01.md"
+    },
+    {
+      "date": "2026-09-02",
+      "question": "JavaScript에서 이벤트 캡처링과 버블링의 실행 순서와 제어 방법은 무엇인가요?",
+      "normalized_question": "javascript에서이벤트캡처링과버블링의실행순서와제어방법은무엇인가요",
+      "category": "DOM Event",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-02.md"
     }
   ]
 }
