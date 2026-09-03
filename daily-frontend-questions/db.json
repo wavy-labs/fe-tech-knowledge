@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T04:19:05+00:00",
+  "updated_at": "2026-09-03T04:11:16+00:00",
   "items": [
     {
       "date": "seed",
@@ -2098,6 +2098,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-02.md"
+    },
+    {
+      "date": "2026-09-03",
+      "question": "JavaScript에서 Object.seal()과 Object.freeze()의 차이점은 무엇인가요?",
+      "normalized_question": "javascript에서objectseal과objectfreeze의차이점은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-03.md"
     }
   ]
 }
