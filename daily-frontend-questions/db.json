@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T04:11:16+00:00",
+  "updated_at": "2026-09-04T04:19:10+00:00",
   "items": [
     {
       "date": "seed",
@@ -2107,6 +2107,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-03.md"
+    },
+    {
+      "date": "2026-09-04",
+      "question": "JavaScript에서 모듈 캐싱의 동작 원리와 순환 참조 해결 방식은 무엇인가요?",
+      "normalized_question": "javascript에서모듈캐싱의동작원리와순환참조해결방식은무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-04.md"
     }
   ]
 }
