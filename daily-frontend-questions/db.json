@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T04:19:10+00:00",
+  "updated_at": "2026-09-05T04:14:32+00:00",
   "items": [
     {
       "date": "seed",
@@ -2116,6 +2116,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-04.md"
+    },
+    {
+      "date": "2026-09-05",
+      "question": "콘텐츠 보안 정책(CSP)에서 script-src의 nonce 기반 방식은 어떻게 XSS를 방어하나요?",
+      "normalized_question": "콘텐츠보안정책csp에서scriptsrc의nonce기반방식은어떻게xss를방어하나요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-05.md"
     }
   ]
 }
