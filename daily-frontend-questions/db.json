@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T04:25:53+00:00",
+  "updated_at": "2026-09-11T04:25:38+00:00",
   "items": [
     {
       "date": "seed",
@@ -2170,6 +2170,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-10.md"
+    },
+    {
+      "date": "2026-09-11",
+      "question": "웹 브라우저의 가속 렌더링에서 GPU 가속을 유발하는 CSS 속성은 무엇인가요?",
+      "normalized_question": "웹브라우저의가속렌더링에서gpu가속을유발하는css속성은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-11.md"
     }
   ]
 }
