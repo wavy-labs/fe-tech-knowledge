@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T04:36:25+00:00",
+  "updated_at": "2026-09-14T04:43:58+00:00",
   "items": [
     {
       "date": "seed",
@@ -2197,6 +2197,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-13.md"
+    },
+    {
+      "date": "2026-09-14",
+      "question": "React에서 useId 훅이 서버와 클라이언트 간 하이드레이션 불일치를 방지하는 원리는 무엇인가요?",
+      "normalized_question": "react에서useid훅이서버와클라이언트간하이드레이션불일치를방지하는원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-14.md"
     }
   ]
 }
