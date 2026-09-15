@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T04:43:58+00:00",
+  "updated_at": "2026-09-15T04:50:15+00:00",
   "items": [
     {
       "date": "seed",
@@ -2206,6 +2206,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-14.md"
+    },
+    {
+      "date": "2026-09-15",
+      "question": "브라우저에서 리플로우를 줄이기 위해 CSS 배치를 최적화하는 원리는 무엇인가요?",
+      "normalized_question": "브라우저에서리플로우를줄이기위해css배치를최적화하는원리는무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-15.md"
     }
   ]
 }
