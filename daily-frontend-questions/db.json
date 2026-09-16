@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T04:50:15+00:00",
+  "updated_at": "2026-09-16T04:38:43+00:00",
   "items": [
     {
       "date": "seed",
@@ -2215,6 +2215,15 @@
       "track": "Frontend",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-15.md"
+    },
+    {
+      "date": "2026-09-16",
+      "question": "JavaScript에서 stopImmediatePropagation의 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript에서stopimmediatepropagation의동작원리는무엇인가요",
+      "category": "DOM Event",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-16.md"
     }
   ]
 }
