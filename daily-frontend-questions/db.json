@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T04:38:43+00:00",
+  "updated_at": "2026-09-17T04:43:07+00:00",
   "items": [
     {
       "date": "seed",
@@ -2224,6 +2224,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-16.md"
+    },
+    {
+      "date": "2026-09-17",
+      "question": "JavaScript에서 가비지 컬렉터의 주요 동작 알고리즘인 Mark-and-Sweep의 원리는 무엇인가요?",
+      "normalized_question": "javascript에서가비지컬렉터의주요동작알고리즘인markandsweep의원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai+reference",
+      "markdown_file": "daily-frontend-questions/2026-09-17.md"
     }
   ]
 }
