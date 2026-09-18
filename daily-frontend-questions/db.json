@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T04:43:07+00:00",
+  "updated_at": "2026-09-18T04:29:06+00:00",
   "items": [
     {
       "date": "seed",
@@ -2233,6 +2233,15 @@
       "track": "CS",
       "source_mode": "ai+reference",
       "markdown_file": "daily-frontend-questions/2026-09-17.md"
+    },
+    {
+      "date": "2026-09-18",
+      "question": "JavaScript에서 Intl.Collator 객체를 활용한 문자열 비교가 일반적인 비교 연산자보다 성능이 유리한 이유는 무엇인가요?",
+      "normalized_question": "javascript에서intlcollator객체를활용한문자열비교가일반적인비교연산자보다성능이유리한이유는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-18.md"
     }
   ]
 }
