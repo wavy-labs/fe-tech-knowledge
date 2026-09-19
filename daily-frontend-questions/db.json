@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T04:29:06+00:00",
+  "updated_at": "2026-09-19T04:26:51+00:00",
   "items": [
     {
       "date": "seed",
@@ -2242,6 +2242,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-18.md"
+    },
+    {
+      "date": "2026-09-19",
+      "question": "프론트엔드 테스트에서 비동기 컴포넌트 렌더링을 기다릴 때 waitFor와 findBy의 차이는 무엇인가요?",
+      "normalized_question": "프론트엔드테스트에서비동기컴포넌트렌더링을기다릴때waitfor와findby의차이는무엇인가요",
+      "category": "Testing",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-19.md"
     }
   ]
 }
