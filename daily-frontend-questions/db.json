@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T04:26:51+00:00",
+  "updated_at": "2026-09-20T04:44:15+00:00",
   "items": [
     {
       "date": "seed",
@@ -2251,6 +2251,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-19.md"
+    },
+    {
+      "date": "2026-09-20",
+      "question": "JavaScript에서 정규식의 exec() 메서드와 match() 메서드의 동작 차이는 무엇인가요?",
+      "normalized_question": "javascript에서정규식의exec메서드와match메서드의동작차이는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-20.md"
     }
   ]
 }
