@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T04:43:11+00:00",
+  "updated_at": "2026-09-22T04:40:43+00:00",
   "items": [
     {
       "date": "seed",
@@ -2269,6 +2269,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-21.md"
+    },
+    {
+      "date": "2026-09-22",
+      "question": "CSS의 가상 엘리먼트인 ::before와 ::after의 DOM 트리 포함 여부는 무엇인가요?",
+      "normalized_question": "css의가상엘리먼트인before와after의dom트리포함여부는무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-22.md"
     }
   ]
 }
