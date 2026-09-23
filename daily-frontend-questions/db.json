@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T04:40:43+00:00",
+  "updated_at": "2026-09-23T04:40:54+00:00",
   "items": [
     {
       "date": "seed",
@@ -2278,6 +2278,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-22.md"
+    },
+    {
+      "date": "2026-09-23",
+      "question": "JavaScript에서 제너레이터(Generator) 함수의 yield 키워드 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript에서제너레이터generator함수의yield키워드동작원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-23.md"
     }
   ]
 }
