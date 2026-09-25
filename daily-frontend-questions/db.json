@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T04:33:15+00:00",
+  "updated_at": "2026-09-25T04:44:27+00:00",
   "items": [
     {
       "date": "seed",
@@ -2296,6 +2296,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-24.md"
+    },
+    {
+      "date": "2026-09-25",
+      "question": "JavaScript에서 의존성 주입(Dependency Injection) 패턴을 구현하는 방법은 무엇인가요?",
+      "normalized_question": "javascript에서의존성주입dependencyinjection패턴을구현하는방법은무엇인가요",
+      "category": "Design Pattern",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-25.md"
     }
   ]
 }
