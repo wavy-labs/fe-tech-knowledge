@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-27T05:09:05+00:00",
+  "updated_at": "2026-09-28T05:11:30+00:00",
   "items": [
     {
       "date": "seed",
@@ -2323,6 +2323,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-27.md"
+    },
+    {
+      "date": "2026-09-28",
+      "question": "Vite가 개발 서버에서 ES 모듈을 활용해 빠르게 구동되는 원리는 무엇인가요?",
+      "normalized_question": "vite가개발서버에서es모듈을활용해빠르게구동되는원리는무엇인가요",
+      "category": "Build & Module",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-28.md"
     }
   ]
 }
