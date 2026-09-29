@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T05:11:30+00:00",
+  "updated_at": "2026-09-29T05:33:54+00:00",
   "items": [
     {
       "date": "seed",
@@ -2332,6 +2332,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-28.md"
+    },
+    {
+      "date": "2026-09-29",
+      "question": "JavaScript에서 프락시(Proxy) 객체의 트랩(Trap) 작동 원리는 무엇인가요?",
+      "normalized_question": "javascript에서프락시proxy객체의트랩trap작동원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-29.md"
     }
   ]
 }
