@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T05:33:54+00:00",
+  "updated_at": "2026-09-30T05:22:26+00:00",
   "items": [
     {
       "date": "seed",
@@ -2341,6 +2341,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-29.md"
+    },
+    {
+      "date": "2026-09-30",
+      "question": "TypeScript의 조건부 타입에서 infer 키워드의 동작 원리는 무엇인가요?",
+      "normalized_question": "typescript의조건부타입에서infer키워드의동작원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-09-30.md"
     }
   ]
 }
