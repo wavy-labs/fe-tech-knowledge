@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T05:22:26+00:00",
+  "updated_at": "2026-10-01T05:37:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -2350,6 +2350,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-09-30.md"
+    },
+    {
+      "date": "2026-10-01",
+      "question": "Vue 3에서 provide와 inject의 반응성 유지 원리는 무엇인가요?",
+      "normalized_question": "vue3에서provide와inject의반응성유지원리는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-01.md"
     }
   ]
 }
