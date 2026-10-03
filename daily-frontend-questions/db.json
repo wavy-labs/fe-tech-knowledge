@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T05:23:57+00:00",
+  "updated_at": "2026-10-03T05:07:48+00:00",
   "items": [
     {
       "date": "seed",
@@ -2368,6 +2368,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-02.md"
+    },
+    {
+      "date": "2026-10-03",
+      "question": "웹 접근성 향상을 위해 이미지에 텍스트 대안을 제공할 때 alt 속성과 aria-label 속성의 차이점은 무엇인가요?",
+      "normalized_question": "웹접근성향상을위해이미지에텍스트대안을제공할때alt속성과arialabel속성의차이점은무엇인가요",
+      "category": "Accessibility",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-03.md"
     }
   ]
 }
