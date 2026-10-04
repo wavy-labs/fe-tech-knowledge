@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-03T05:07:48+00:00",
+  "updated_at": "2026-10-04T05:40:42+00:00",
   "items": [
     {
       "date": "seed",
@@ -2377,6 +2377,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-03.md"
+    },
+    {
+      "date": "2026-10-04",
+      "question": "브라우저에서 리소스를 로드할 때 DNS 프리패치(DNS Prefetch)의 동작 원리는 무엇인가요?",
+      "normalized_question": "브라우저에서리소스를로드할때dns프리패치dnsprefetch의동작원리는무엇인가요",
+      "category": "Performance",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-04.md"
     }
   ]
 }
