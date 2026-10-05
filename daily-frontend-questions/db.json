@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T05:40:42+00:00",
+  "updated_at": "2026-10-05T05:24:14+00:00",
   "items": [
     {
       "date": "seed",
@@ -2386,6 +2386,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-04.md"
+    },
+    {
+      "date": "2026-10-05",
+      "question": "Rollup 번들러가 호이스팅 기반 롤업 방식을 사용하는 이유는 무엇인가요?",
+      "normalized_question": "rollup번들러가호이스팅기반롤업방식을사용하는이유는무엇인가요",
+      "category": "Build & Module",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-05.md"
     }
   ]
 }
