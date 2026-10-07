@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T06:08:29+00:00",
+  "updated_at": "2026-10-07T05:43:54+00:00",
   "items": [
     {
       "date": "seed",
@@ -2404,6 +2404,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-06.md"
+    },
+    {
+      "date": "2026-10-07",
+      "question": "React에서 포탈(Portal)을 사용할 때 이벤트 버블링의 동작 방식은 어떻게 되나요?",
+      "normalized_question": "react에서포탈portal을사용할때이벤트버블링의동작방식은어떻게되나요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-07.md"
     }
   ]
 }
