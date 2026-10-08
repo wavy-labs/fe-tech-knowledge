@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-07T05:43:54+00:00",
+  "updated_at": "2026-10-08T05:51:21+00:00",
   "items": [
     {
       "date": "seed",
@@ -2413,6 +2413,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-07.md"
+    },
+    {
+      "date": "2026-10-08",
+      "question": "JavaScript에서 WeakMap이 가비지 컬렉션의 대상이 되는 원리는 무엇인가요?",
+      "normalized_question": "javascript에서weakmap이가비지컬렉션의대상이되는원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-08.md"
     }
   ]
 }
