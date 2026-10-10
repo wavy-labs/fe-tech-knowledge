@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T05:56:33+00:00",
+  "updated_at": "2026-10-10T05:41:29+00:00",
   "items": [
     {
       "date": "seed",
@@ -2431,6 +2431,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-09.md"
+    },
+    {
+      "date": "2026-10-10",
+      "question": "Vue 3의 템플릿 컴파일러가 정적 노드를 호이스팅하는 원리는 무엇인가요?",
+      "normalized_question": "vue3의템플릿컴파일러가정적노드를호이스팅하는원리는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-10.md"
     }
   ]
 }
