@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11T05:34:30+00:00",
+  "updated_at": "2026-10-12T05:45:45+00:00",
   "items": [
     {
       "date": "seed",
@@ -2449,6 +2449,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-11.md"
+    },
+    {
+      "date": "2026-10-12",
+      "question": "React에서 useTransition 훅의 비동기 상태 전환 원리는 무엇인가요?",
+      "normalized_question": "react에서usetransition훅의비동기상태전환원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-12.md"
     }
   ]
 }
