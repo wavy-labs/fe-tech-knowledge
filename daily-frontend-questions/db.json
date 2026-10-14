@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T06:39:50+00:00",
+  "updated_at": "2026-10-14T04:45:24+00:00",
   "items": [
     {
       "date": "seed",
@@ -2467,6 +2467,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-13.md"
+    },
+    {
+      "date": "2026-10-14",
+      "question": "JavaScript에서 큐(Queue)의 순서를 보장하기 위해 setImmediate와 process.nextTick의 동작 차이는 무엇인가요?",
+      "normalized_question": "javascript에서큐queue의순서를보장하기위해setimmediate와processnexttick의동작차이는무엇인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-14.md"
     }
   ]
 }
