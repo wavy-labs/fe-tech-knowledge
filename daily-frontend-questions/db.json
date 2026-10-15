@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T04:45:24+00:00",
+  "updated_at": "2026-10-15T04:23:48+00:00",
   "items": [
     {
       "date": "seed",
@@ -2476,6 +2476,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-14.md"
+    },
+    {
+      "date": "2026-10-15",
+      "question": "HTTP 프로토콜에서 조건부 요청과 캐시 검증을 위해 사용되는 ETag 헤더의 생성 및 검증 원리는 무엇인가요?",
+      "normalized_question": "http프로토콜에서조건부요청과캐시검증을위해사용되는etag헤더의생성및검증원리는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-15.md"
     }
   ]
 }
