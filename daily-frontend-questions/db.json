@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T04:23:48+00:00",
+  "updated_at": "2026-10-16T04:19:02+00:00",
   "items": [
     {
       "date": "seed",
@@ -2485,6 +2485,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-15.md"
+    },
+    {
+      "date": "2026-10-16",
+      "question": "브라우저에서 쿠키 설정 시 SameSite 속성의 Lax와 Strict 차이는 무엇인가요?",
+      "normalized_question": "브라우저에서쿠키설정시samesite속성의lax와strict차이는무엇인가요",
+      "category": "Web Security",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-16.md"
     }
   ]
 }
