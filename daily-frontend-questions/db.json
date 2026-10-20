@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T04:27:56+00:00",
+  "updated_at": "2026-10-20T04:38:17+00:00",
   "items": [
     {
       "date": "seed",
@@ -2521,6 +2521,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-19.md"
+    },
+    {
+      "date": "2026-10-20",
+      "question": "JavaScript에서 BigInt 원시 타입이 등장하게 된 배경과 Number 타입과의 주요 차이점은 무엇인가요?",
+      "normalized_question": "javascript에서bigint원시타입이등장하게된배경과number타입과의주요차이점은무엇인가요",
+      "category": "JavaScript",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-20.md"
     }
   ]
 }
