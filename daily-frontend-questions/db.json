@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T04:31:37+00:00",
+  "updated_at": "2026-10-22T04:30:40+00:00",
   "items": [
     {
       "date": "seed",
@@ -2539,6 +2539,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-21.md"
+    },
+    {
+      "date": "2026-10-22",
+      "question": "JavaScript에서 Observer 패턴을 구현하는 방법은 무엇인가요?",
+      "normalized_question": "javascript에서observer패턴을구현하는방법은무엇인가요",
+      "category": "Design Pattern",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-22.md"
     }
   ]
 }
