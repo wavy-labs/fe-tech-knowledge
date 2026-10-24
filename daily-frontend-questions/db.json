@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T04:38:27+00:00",
+  "updated_at": "2026-10-24T04:28:32+00:00",
   "items": [
     {
       "date": "seed",
@@ -2557,6 +2557,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-23.md"
+    },
+    {
+      "date": "2026-10-24",
+      "question": "TypeScript에서 공변성과 반공변성의 개념과 함수 타입에서의 적용 방식은 무엇인가요?",
+      "normalized_question": "typescript에서공변성과반공변성의개념과함수타입에서의적용방식은무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-24.md"
     }
   ]
 }
