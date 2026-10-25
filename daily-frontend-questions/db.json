@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T04:28:32+00:00",
+  "updated_at": "2026-10-25T04:34:46+00:00",
   "items": [
     {
       "date": "seed",
@@ -2566,6 +2566,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-24.md"
+    },
+    {
+      "date": "2026-10-25",
+      "question": "웹 접근성 향상을 위해 시맨틱 태그를 사용할 때 article과 section의 명확한 구분 기준은 무엇인가요?",
+      "normalized_question": "웹접근성향상을위해시맨틱태그를사용할때article과section의명확한구분기준은무엇인가요",
+      "category": "Accessibility",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-25.md"
     }
   ]
 }
