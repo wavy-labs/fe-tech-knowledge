@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T04:34:46+00:00",
+  "updated_at": "2026-10-26T04:36:27+00:00",
   "items": [
     {
       "date": "seed",
@@ -2575,6 +2575,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-25.md"
+    },
+    {
+      "date": "2026-10-26",
+      "question": "TypeScript에서 const assertion의 동작 원리와 활용 사례는 무엇인가요?",
+      "normalized_question": "typescript에서constassertion의동작원리와활용사례는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-26.md"
     }
   ]
 }
