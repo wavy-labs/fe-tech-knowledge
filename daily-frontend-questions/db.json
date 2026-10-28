@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T04:58:31+00:00",
+  "updated_at": "2026-10-28T05:27:03+00:00",
   "items": [
     {
       "date": "seed",
@@ -2593,6 +2593,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-27.md"
+    },
+    {
+      "date": "2026-10-28",
+      "question": "React에서 useOptimistic 훅의 동작 원리는 무엇인가요?",
+      "normalized_question": "react에서useoptimistic훅의동작원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-28.md"
     }
   ]
 }
