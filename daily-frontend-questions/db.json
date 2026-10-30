@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T05:39:28+00:00",
+  "updated_at": "2026-10-30T05:40:00+00:00",
   "items": [
     {
       "date": "seed",
@@ -2611,6 +2611,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-29.md"
+    },
+    {
+      "date": "2026-10-30",
+      "question": "JavaScript에서 꼬리 호출 최적화(Tail Call Optimization)의 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript에서꼬리호출최적화tailcalloptimization의동작원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-10-30.md"
     }
   ]
 }
