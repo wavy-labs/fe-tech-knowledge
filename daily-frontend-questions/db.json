@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T05:25:15+00:00",
+  "updated_at": "2026-11-01T05:50:35+00:00",
   "items": [
     {
       "date": "seed",
@@ -2629,6 +2629,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-10-31.md"
+    },
+    {
+      "date": "2026-11-01",
+      "question": "JavaScript에서 Intl.DateTimeFormat 객체를 사용한 날짜 포맷팅이 성능상 유리한 이유는 무엇인가요?",
+      "normalized_question": "javascript에서intldatetimeformat객체를사용한날짜포맷팅이성능상유리한이유는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-01.md"
     }
   ]
 }
