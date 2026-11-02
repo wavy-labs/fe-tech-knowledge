@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T05:50:35+00:00",
+  "updated_at": "2026-11-02T05:49:05+00:00",
   "items": [
     {
       "date": "seed",
@@ -2638,6 +2638,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-01.md"
+    },
+    {
+      "date": "2026-11-02",
+      "question": "JavaScript에서 Intl.PluralRules 객체를 활용한 다국어 복수형 처리의 원리는 무엇인가요?",
+      "normalized_question": "javascript에서intlpluralrules객체를활용한다국어복수형처리의원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-02.md"
     }
   ]
 }
