@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T06:00:40+00:00",
+  "updated_at": "2026-11-05T06:31:35+00:00",
   "items": [
     {
       "date": "seed",
@@ -2665,6 +2665,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-04.md"
+    },
+    {
+      "date": "2026-11-05",
+      "question": "TypeScript에서 타입 가드(Type Guard)의 종류와 사용자 정의 타입 가드의 동작 원리는 무엇인가요?",
+      "normalized_question": "typescript에서타입가드typeguard의종류와사용자정의타입가드의동작원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-05.md"
     }
   ]
 }
