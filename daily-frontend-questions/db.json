@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T06:31:35+00:00",
+  "updated_at": "2026-11-06T06:21:19+00:00",
   "items": [
     {
       "date": "seed",
@@ -2674,6 +2674,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-05.md"
+    },
+    {
+      "date": "2026-11-06",
+      "question": "웹 애플리케이션에서 CORS 요청 시 프리플라이트 요청이 발생하는 조건은 무엇인가요?",
+      "normalized_question": "웹애플리케이션에서cors요청시프리플라이트요청이발생하는조건은무엇인가요",
+      "category": "Web Security",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-06.md"
     }
   ]
 }
