@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T06:21:19+00:00",
+  "updated_at": "2026-11-07T05:45:58+00:00",
   "items": [
     {
       "date": "seed",
@@ -2683,6 +2683,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-06.md"
+    },
+    {
+      "date": "2026-11-07",
+      "question": "Webpack의 Tree Shaking이 동작하기 위해 ES 모듈이 필수적인 이유는 무엇인가요?",
+      "normalized_question": "webpack의treeshaking이동작하기위해es모듈이필수적인이유는무엇인가요",
+      "category": "Build & Module",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-07.md"
     }
   ]
 }
