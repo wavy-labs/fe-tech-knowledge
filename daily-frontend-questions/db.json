@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T05:45:58+00:00",
+  "updated_at": "2026-11-08T05:55:11+00:00",
   "items": [
     {
       "date": "seed",
@@ -2692,6 +2692,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-07.md"
+    },
+    {
+      "date": "2026-11-08",
+      "question": "TypeScript에서 유니온 타입을 교차 타입으로 변환하는 원리는 무엇인가요?",
+      "normalized_question": "typescript에서유니온타입을교차타입으로변환하는원리는무엇인가요",
+      "category": "TypeScript",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-08.md"
     }
   ]
 }
