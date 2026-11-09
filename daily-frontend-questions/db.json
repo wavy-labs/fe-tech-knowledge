@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T05:55:11+00:00",
+  "updated_at": "2026-11-09T06:04:51+00:00",
   "items": [
     {
       "date": "seed",
@@ -2701,6 +2701,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-08.md"
+    },
+    {
+      "date": "2026-11-09",
+      "question": "Vue 3의 v-model 디렉티브가 컴포넌트 양방향 바인딩을 처리하는 원리는 무엇인가요?",
+      "normalized_question": "vue3의vmodel디렉티브가컴포넌트양방향바인딩을처리하는원리는무엇인가요",
+      "category": "Vue",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-09.md"
     }
   ]
 }
