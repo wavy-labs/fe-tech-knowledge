@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T06:04:51+00:00",
+  "updated_at": "2026-11-10T07:07:03+00:00",
   "items": [
     {
       "date": "seed",
@@ -2710,6 +2710,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-09.md"
+    },
+    {
+      "date": "2026-11-10",
+      "question": "브라우저에서 리소스의 서비스 워커(Service Worker)가 캐시를 가로채는 원리는 무엇인가요?",
+      "normalized_question": "브라우저에서리소스의서비스워커serviceworker가캐시를가로채는원리는무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-10.md"
     }
   ]
 }
