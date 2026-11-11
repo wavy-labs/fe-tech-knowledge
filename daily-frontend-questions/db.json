@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T07:07:03+00:00",
+  "updated_at": "2026-11-11T05:56:44+00:00",
   "items": [
     {
       "date": "seed",
@@ -2719,6 +2719,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-10.md"
+    },
+    {
+      "date": "2026-11-11",
+      "question": "JavaScript에서 비동기 이터레이터의 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript에서비동기이터레이터의동작원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-11.md"
     }
   ]
 }
