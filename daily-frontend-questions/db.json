@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T05:56:44+00:00",
+  "updated_at": "2026-11-12T07:00:14+00:00",
   "items": [
     {
       "date": "seed",
@@ -2728,6 +2728,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-11.md"
+    },
+    {
+      "date": "2026-11-12",
+      "question": "HTTP/2 서버 푸시 기능이 실제 웹 성능 최적화에서 제한적으로 사용되는 이유는 무엇인가요?",
+      "normalized_question": "http2서버푸시기능이실제웹성능최적화에서제한적으로사용되는이유는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-12.md"
     }
   ]
 }
