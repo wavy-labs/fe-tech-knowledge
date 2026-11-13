@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T07:00:14+00:00",
+  "updated_at": "2026-11-13T06:26:21+00:00",
   "items": [
     {
       "date": "seed",
@@ -2737,6 +2737,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-12.md"
+    },
+    {
+      "date": "2026-11-13",
+      "question": "브라우저에서 리플로우와 리페인트가 발생하는 구체적인 트리거 조건은 무엇인가요?",
+      "normalized_question": "브라우저에서리플로우와리페인트가발생하는구체적인트리거조건은무엇인가요",
+      "category": "Browser Architecture",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-13.md"
     }
   ]
 }
