@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T06:26:21+00:00",
+  "updated_at": "2026-11-14T06:09:05+00:00",
   "items": [
     {
       "date": "seed",
@@ -2746,6 +2746,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-13.md"
+    },
+    {
+      "date": "2026-11-14",
+      "question": "JavaScript에서 Symbol.iterator 심볼의 동작 원리는 무엇인가요?",
+      "normalized_question": "javascript에서symboliterator심볼의동작원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-14.md"
     }
   ]
 }
