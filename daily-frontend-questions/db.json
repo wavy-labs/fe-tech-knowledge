@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T06:16:08+00:00",
+  "updated_at": "2026-11-16T06:08:48+00:00",
   "items": [
     {
       "date": "seed",
@@ -2764,6 +2764,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-15.md"
+    },
+    {
+      "date": "2026-11-16",
+      "question": "HTTP/2의 HPACK 압축 알고리즘이 헤더 크기를 줄이는 원리는 무엇인가요?",
+      "normalized_question": "http2의hpack압축알고리즘이헤더크기를줄이는원리는무엇인가요",
+      "category": "HTTP",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-16.md"
     }
   ]
 }
