@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T06:08:48+00:00",
+  "updated_at": "2026-11-17T07:46:51+00:00",
   "items": [
     {
       "date": "seed",
@@ -2773,6 +2773,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-16.md"
+    },
+    {
+      "date": "2026-11-17",
+      "question": "CSS에서 BFC의 생성 조건과 레이아웃 격리 원리는 무엇인가요?",
+      "normalized_question": "css에서bfc의생성조건과레이아웃격리원리는무엇인가요",
+      "category": "CSS",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-17.md"
     }
   ]
 }
