@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T07:13:02+00:00",
+  "updated_at": "2026-11-19T07:10:33+00:00",
   "items": [
     {
       "date": "seed",
@@ -2791,6 +2791,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-18.md"
+    },
+    {
+      "date": "2026-11-19",
+      "question": "JavaScript에서 제너레이터 함수가 이터레이터 객체를 반환하는 원리는 무엇인가요?",
+      "normalized_question": "javascript에서제너레이터함수가이터레이터객체를반환하는원리는무엇인가요",
+      "category": "JavaScript",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-19.md"
     }
   ]
 }
