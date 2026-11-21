@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T07:04:09+00:00",
+  "updated_at": "2026-11-21T06:59:40+00:00",
   "items": [
     {
       "date": "seed",
@@ -2809,6 +2809,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-20.md"
+    },
+    {
+      "date": "2026-11-21",
+      "question": "JavaScript에서 마이크로태스크 큐가 매크로태스크 큐보다 우선 처리되는 이유는 무엇인가요?",
+      "normalized_question": "javascript에서마이크로태스크큐가매크로태스크큐보다우선처리되는이유는무엇인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-21.md"
     }
   ]
 }
