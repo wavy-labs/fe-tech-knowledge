@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T06:30:19+00:00",
+  "updated_at": "2026-11-23T07:22:51+00:00",
   "items": [
     {
       "date": "seed",
@@ -2827,6 +2827,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-22.md"
+    },
+    {
+      "date": "2026-11-23",
+      "question": "브라우저에서 리소스를 로드할 때 브로틀리 압축 알고리즘이 Gzip보다 우수한 이유는 무엇인가요?",
+      "normalized_question": "브라우저에서리소스를로드할때브로틀리압축알고리즘이gzip보다우수한이유는무엇인가요",
+      "category": "Network",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-23.md"
     }
   ]
 }
