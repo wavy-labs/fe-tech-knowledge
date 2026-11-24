@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T07:22:51+00:00",
+  "updated_at": "2026-11-24T09:41:22+00:00",
   "items": [
     {
       "date": "seed",
@@ -2836,6 +2836,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-23.md"
+    },
+    {
+      "date": "2026-11-24",
+      "question": "React의 서버 컴포넌트(RSC)가 클라이언트 컴포넌트와 구별되는 동작 원리는 무엇인가요?",
+      "normalized_question": "react의서버컴포넌트rsc가클라이언트컴포넌트와구별되는동작원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-24.md"
     }
   ]
 }
