@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T09:41:22+00:00",
+  "updated_at": "2026-11-25T08:14:34+00:00",
   "items": [
     {
       "date": "seed",
@@ -2845,6 +2845,15 @@
       "track": "Frontend",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-24.md"
+    },
+    {
+      "date": "2026-11-25",
+      "question": "JavaScript에서 MutationObserver가 DOM 변경을 비동기로 감지하는 원리는 무엇인가요?",
+      "normalized_question": "javascript에서mutationobserver가dom변경을비동기로감지하는원리는무엇인가요",
+      "category": "Event Loop",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-25.md"
     }
   ]
 }
