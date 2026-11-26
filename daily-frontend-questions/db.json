@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T08:14:34+00:00",
+  "updated_at": "2026-11-26T08:04:03+00:00",
   "items": [
     {
       "date": "seed",
@@ -2854,6 +2854,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-25.md"
+    },
+    {
+      "date": "2026-11-26",
+      "question": "JavaScript에서 의존성 주입 패턴을 구현하는 방법은 무엇인가요?",
+      "normalized_question": "javascript에서의존성주입패턴을구현하는방법은무엇인가요",
+      "category": "Design Pattern",
+      "track": "CS",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-26.md"
     }
   ]
 }
