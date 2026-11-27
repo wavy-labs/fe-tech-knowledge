@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T08:04:03+00:00",
+  "updated_at": "2026-11-27T08:07:43+00:00",
   "items": [
     {
       "date": "seed",
@@ -2863,6 +2863,15 @@
       "track": "CS",
       "source_mode": "ai",
       "markdown_file": "daily-frontend-questions/2026-11-26.md"
+    },
+    {
+      "date": "2026-11-27",
+      "question": "React에서 useDeferredValue 훅이 렌더링 우선순위를 조정하는 원리는 무엇인가요?",
+      "normalized_question": "react에서usedeferredvalue훅이렌더링우선순위를조정하는원리는무엇인가요",
+      "category": "React",
+      "track": "Frontend",
+      "source_mode": "ai",
+      "markdown_file": "daily-frontend-questions/2026-11-27.md"
     }
   ]
 }
